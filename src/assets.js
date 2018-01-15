@@ -19,4 +19,11 @@ export const preloaderAssets = [{
 export const gameAssets = [{
   key: 'phaser',
   type: 'image'
+}, {
+  key: 'billy-walk',
+  type: 'spritesheet',
+  frameWidth: 16,
+  frameHeight: 39,
+  margin: 0,
+  skipFrames: 0
 }];
