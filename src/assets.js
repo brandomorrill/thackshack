@@ -26,4 +26,7 @@ export const gameAssets = [{
   frameHeight: 39,
   margin: 0,
   skipFrames: 0
+}, {
+  key: 'level1',
+  type: 'image'
 }];
